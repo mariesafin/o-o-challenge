@@ -8,4 +8,4 @@
   - [Семён Сорокин](https://github.com/SimonLen)  
   - [Алексей Ядринцев](https://github.com/Yyalexx)  
   
- ![](https://github.com/Yyalexx/o-o-cnallenge/blob/master/media/photo_video/OOCcert-1.png)
+https://codenrock.com/users/36444/certificates/68
